@@ -1,6 +1,4 @@
-##ReactJS - Users & Posts from API, Add & Remove Users from List
-
-## Available Scripts
+## ReactJS - Users & Posts from API, Add & Remove Users from List
 
 In the project directory, you can run:
 
